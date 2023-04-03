@@ -1,0 +1,6 @@
+class   mobile{
+    String mname="vivo";
+    String color="black";
+
+
+}
