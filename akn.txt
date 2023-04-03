@@ -1,6 +1,7 @@
 class   mobile{
     String mname="vivo";
     String color="black";
+    double price=12000.00;
 
 
 }
